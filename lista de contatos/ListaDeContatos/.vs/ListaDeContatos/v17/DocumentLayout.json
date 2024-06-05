@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\contato\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\contato\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\contato\\criar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\contato\\apagarconfirmacao.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:repositorio\\icontatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:repositorio\\contatorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:models\\contatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\migrations\\20240531163455_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:migrations\\20240531163455_criandotabelacontatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:data\\bancocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:controllers\\contatocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\migrations\\bancocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:migrations\\bancocontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|c:\\users\\casapais\\desktop\\lista de contatos\\listadecontatos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{741118D1-E573-49DA-B894-66509D4F9E3D}|ListaDeContatos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:29:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:28:56.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Criar.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Criar.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\Criar.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Criar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:28:55.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApagarConfirmacao.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\ApagarConfirmacao.cshtml",
+              "RelativeToolTip": "Views\\Contato\\ApagarConfirmacao.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:28:52.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contato\\Index.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Contato\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contato\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T22:25:01.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T22:25:10.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T22:24:53.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Models\\ContatoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContatoModel.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Models\\ContatoModel.cs",
+              "RelativeToolTip": "Models\\ContatoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:25:42.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240531163455_CriandoTabelaContatos.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Migrations\\20240531163455_CriandoTabelaContatos.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240531163455_CriandoTabelaContatos.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Migrations\\20240531163455_CriandoTabelaContatos.cs",
+              "RelativeToolTip": "Migrations\\20240531163455_CriandoTabelaContatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T02:28:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BancoContext.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Data\\BancoContext.cs",
+              "RelativeDocumentMoniker": "Data\\BancoContext.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Data\\BancoContext.cs",
+              "RelativeToolTip": "Data\\BancoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:21:40.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\ContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Repositorio\\ContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\ContatoRepositorio.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:22:13.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IContatoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeDocumentMoniker": "Repositorio\\IContatoRepositorio.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Repositorio\\IContatoRepositorio.cs",
+              "RelativeToolTip": "Repositorio\\IContatoRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:49:48.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BancoContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\BancoContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Migrations\\BancoContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\BancoContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:21:59.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContatoController.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatoController.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Controllers\\ContatoController.cs",
+              "RelativeToolTip": "Controllers\\ContatoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:29:21.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:26:54.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T02:26:52.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:25:15.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:25:18.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\casapais\\Desktop\\lista de contatos\\ListaDeContatos\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T22:36:37.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
